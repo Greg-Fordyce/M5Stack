@@ -1,3 +1,5 @@
+# DO NOT USE!!! LEARNING ABOUT LIBRARIES!!!
+
 # M5Stack Library
 
 English | [中文](docs/getting_started_cn.md) | [日本語](docs/getting_started_ja.md)
